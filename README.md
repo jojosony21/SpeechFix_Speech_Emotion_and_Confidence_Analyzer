@@ -33,6 +33,7 @@
 | Language    | Python                              |
 
 ## 📁 Project Structure
+```
 speechfix/
 ├── backend/
 │ ├── app.py # Flask server
@@ -47,7 +48,7 @@ speechfix/
 │ └── emotion_confidence_model.h5
 ├── README.md
 └── demo/ # Screenshots / demo assets
-
+```
 ## 📸 Screenshots
 
 ### Home Page

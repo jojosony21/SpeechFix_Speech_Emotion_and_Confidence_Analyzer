@@ -51,13 +51,13 @@ speechfix/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](demo/homepage.png)
+![Home Page](screenshots/Picture1.png)
 
 ### Audio Upload/Record Page
-![Upload Page](demo/upload.png)
+![Upload Page](screenshots/Picture2.png)
 
 ### Result Analysis Page
-![Result Page](demo/result.png)
+![Result Page](screenshots/Picture3.png)
 
 ## 📈 Performance Evaluation
 
